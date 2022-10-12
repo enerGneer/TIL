@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Loops</h1>
+    <ul>
+    <script>
+      document.write('<li>1</li>');
+      var i = 0;
+      while(i < 3) {
+        document.write('<li>2</li>');
+        document.write('<li>3</li>');
+        i = i + 1;
+      }
+      document.write('<li>4</li>');
+    </script>
+    </ul>
+
+    <h1>Loop & Array</h1>
+    <h2>Animals</h2>
+    <!--goals-->
+    <ul>
+      <li>cat</li>
+      <li>dog</li>
+      <li>bird</li>
+      <li>cow</li>
+    </ul>
+    <!--loop & array-->
+    <script>
+      var animals = ["cat", "dog", "bird", "cow", "lamb"]
+    </script>
+    <h2>Animals</h2>
+    <ul>
+      <script>
+        var i = 0;
+        while(i < animals.length) {
+          document.write('<li><a href="'+animals[i]+'.html">'+animals[i]+'</a></li>');
+          i = i + 1;
+        }
+      </script>
+    </ul>
+  </body>
+</html>
