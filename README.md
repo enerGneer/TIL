@@ -1,13 +1,16 @@
 # TIL : Today I Learnd
 
-> 꾸준히 노력하는 것 자체에서 성취를 느끼는 나의 장점을 살려서 매일매일 조금씩 앞으로 나아가자.
-> 
+```
+꾸준히 노력하는 것 자체에서 성취를 느끼는 나의 장점을 살려서 매일매일 조금씩 앞으로 나아가자.
+```
 
 ---
 
 ## 📔 daily log
 
-<details><summary><strong>2022.10 TIL</strong></summary>
+<details>
+<summary>2022.10 TIL</summary>
+    
     
     ### 221012
     
@@ -68,7 +71,9 @@
     📝 비전공 개발자들의 글, 나에게 맞는 공부법에 대해 정리
 </details>
     
-<details><summary><strong>2022.09 TIL</strong></summary>
+<details>
+<summary>2022.09 TIL</summary>
+    
     
     ### 220930
     
