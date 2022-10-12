@@ -11,7 +11,7 @@
 
 ### 221012
 
-🐱 GitHub TIL 편집 & 블로그에 올렸던 것들 옮겨옴
+🐱 GitHub TIL 편집, 블로그에 올렸던 자료들 옮겨오기
 
 ### 221011
 
@@ -129,17 +129,13 @@
 
 ## 🏷️ by Category
 
-### HTML&CSS
-
-- 
-
-### JAVASCRIPT
+### HTML & CSS & JAVASCRIPT
 
 - 
 
 ## Book
 
-- 혼자 공부하는 얄팍한 코딩지식 Chapter.1
+- [혼자 공부하는 얄팍한 코딩지식 Chapter.1](/Book/221012.md)
 
 ### ETC
 
