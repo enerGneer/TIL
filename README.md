@@ -1,4 +1,4 @@
-# TIL : Today I Learnd
+# TIL : Today I Learned
 
 ```
 꾸준히 노력하는 것 자체에서 성취를 느끼는 나의 장점을 살려서 매일매일 조금씩 앞으로 나아가자.
