@@ -9,6 +9,10 @@
 
 <details><summary><strong>2022.10 TIL</strong></summary>
 
+### 221017
+
+📝 블로그 플랫폼 이동을 위한 자료모음
+
 ### 221012
 
 🐱 GitHub TIL 편집, 블로그에 올렸던 자료들 옮겨오기
@@ -21,29 +25,29 @@
 
 ### 221010
 
-🧑‍🏫 생활코딩 WEB3 JavaScript 수강, 실습, 정리
+🏫 생활코딩 WEB3 JavaScript 수강, 실습, 정리
 
 ### 221009
 
-🧑‍🏫 생활코딩 WEB3 JavaScript 수강, 실습
+🏫 생활코딩 WEB3 JavaScript 수강, 실습
 
 ✏️ 10월 1주차 주간회고 작성
 
 ### 221008
 
-🧑‍🏫 생활코딩 WEB3 JavaScript 수강, 실습, 정리
+🏫 생활코딩 WEB3 JavaScript 수강, 실습, 정리
 
 💡 토이프로젝트 아이디어 기록
 
 ### 221007
 
-🧑‍🏫 생활코딩 WEB2 CSS 수강, 실습, 정리
+🏫 생활코딩 WEB2 CSS 수강, 실습, 정리
 
 📝 Atom 패키지 인스톨 정리
 
 ### 221006
 
-🧑‍🏫 생활코딩 WEB1 HTML&Internet 수강, 실습, 정리
+🏫 생활코딩 WEB1 HTML&Internet 수강, 실습, 정리
 
 🐱 GitHub에 처음으로 커밋
 
@@ -90,15 +94,15 @@
 
 ### 220923
 
-🧑‍🏫 [가장 쉬운 Git 강좌 - (하) Github편](https://www.youtube.com/watch?v=GaKjTjwcKQo) 수강, 실습
+🏫 [가장 쉬운 Git 강좌 - (하) Github편](https://www.youtube.com/watch?v=GaKjTjwcKQo) 수강, 실습
 
 ### 220922
 
-🧑‍🏫 [가장 쉬운 Git 강좌 - (하) Github편](https://www.youtube.com/watch?v=GaKjTjwcKQo) 수강
+🏫 [가장 쉬운 Git 강좌 - (하) Github편](https://www.youtube.com/watch?v=GaKjTjwcKQo) 수강
 
 ### 220921
 
-🧑‍🏫 [Git은 뭐고 GitHub은 뭔가요?](https://www.youtube.com/watch?v=Bd35Ze7-dIw) 수강 및 실습
+🏫 [Git은 뭐고 GitHub은 뭔가요?](https://www.youtube.com/watch?v=Bd35Ze7-dIw) 수강 및 실습
 
 ### 220920
 
@@ -106,23 +110,23 @@
 
 ### 220919
 
-🧑‍🏫 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] 수강완료, 정리
+🏫 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] 수강완료, 정리
 
 ### 220918
 
-🧑‍🏫 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] 수강, 정리
+🏫 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] 수강, 정리
 
 ### 220917
 
-⚒️ Tistory 블로그 스킨 css 수정해보기
+🛠️ Tistory 블로그 스킨 css 수정해보기
 
 ### 220916
 
-🧑‍🏫 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] 수강 & 정리
+🏫 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] 수강 & 정리
 
 ### 220915
 
-🧑‍🏫 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] 수강시작
+🏫 비전공자를 위한 개발자 취업 올인원 가이드 [통합편] 수강시작
 </details>
 
 ---
