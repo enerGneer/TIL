@@ -10,6 +10,7 @@
 
 ## HTML & CSS
 
+- [221024 / Responsible & Grid](Html&Css/221024.md)
 - [221023 / backdrop-filter](Html&Css/221023.md)
 - [221007 / css](Html&Css/221007.md)
 - [221006 / HTML & Internet](Html&Css/221006.md)
@@ -28,7 +29,6 @@
 
 ## Basics
 - [221023 / Server & AWS](https://energneer.vercel.app/book-yalco#f8565db15a564de18c3996b594b31c19)
-
 
 ## Book
 
