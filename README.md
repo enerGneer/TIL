@@ -22,13 +22,20 @@
 - [221018 / Next.js](Next.js/221018.md)
 - [221017 / nextjs notion starter kit](https://energneer.vercel.app/create-notion-blog)
 
-## Tool
+## Git
 
+- [221025 / Git](Git/221025.md)
+- [221012 / Connect Github with Source Tree & VSCode](git/221012.md)
+- [220921 / start](Git/220921.md)
+
+## ETC
+
+- [221025 / Markdown](ETC/221025.md)
 - [221007 / Atom Package Install](https://energneer.vercel.app/atom-issue)
-- [220921 / Git](Git/220921.md)
 
 ## Basics
-- [221023 / Server & AWS](https://energneer.vercel.app/book-yalco#f8565db15a564de18c3996b594b31c19)
+- [221025 / Cookie, Session, Token, Cache, CDN](Basics/221025.md)
+- [221023 / Server, Client, IDC](Basics/221023.md)
 
 ## Book
 
