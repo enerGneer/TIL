@@ -4,6 +4,7 @@
 
 ## JAVASCRIPT
 
+- [221027 / Array](JavaScript/221027.md)
 - [221018 / Component, Scope](JavaScript/221018.md)
 - [221010 / Function](JavaScript/221010.md)
 - [221008 / Javascript, Datatype, Refactoring](JavaScript/221008.md)
@@ -34,6 +35,7 @@
 - [221007 / Atom Package Install](https://energneer.vercel.app/atom-issue)
 
 ## Basics
+
 - [221026 / framework, library, API, XML, JSON, YAML, AJAX, DOM](Basics/221026.md)
 - [221025 / Cookie, Session, Token, Cache, CDN](Basics/221025.md)
 - [221023 / Server, Client, IDC](Basics/221023.md)
@@ -42,7 +44,7 @@
 
 - [221012 / 혼자 공부하는 얄팍한 코딩지식](https://energneer.vercel.app/book-yalco)
 - [220928 / 커리어 스킬](https://energneer.vercel.app/book-careerskill)
-  
+
 ## 📔Retrospective
 
 - [2022.09~10](https://energneer.vercel.app/202209-10)
