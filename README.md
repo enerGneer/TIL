@@ -25,12 +25,14 @@
 
 ## Git
 
+- [221028 / amend](Git/221028.md)
 - [221025 / Git](Git/221025.md)
 - [221012 / Connect Github with Source Tree & VSCode](git/221012.md)
 - [220921 / start](Git/220921.md)
 
 ## ETC
 
+- [221028 / VSCode](https://energneer.vercel.app/vscode)
 - [221025 / Markdown](ETC/221025.md)
 - [221007 / Atom Package Install](https://energneer.vercel.app/atom-issue)
 
