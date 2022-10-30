@@ -4,7 +4,8 @@
 
 ## JAVASCRIPT
 
-- [221029 / Function](JavaScript/221029.md)
+- [221030 / Conditional](JavaScript/221030.md)
+- [221029 / Function, Return](JavaScript/221029.md)
 - [221028 / Object](JavaScript/221028.md)
 - [221027 / Array](JavaScript/221027.md)
 - [221018 / Component, Scope](JavaScript/221018.md)
