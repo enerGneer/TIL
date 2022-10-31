@@ -4,6 +4,7 @@
 
 ## JAVASCRIPT
 
+- [221031 / Searching For Elements, Event](JavaScript/221031.md)
 - [221030 / Conditional](JavaScript/221030.md)
 - [221029 / Function, Return](JavaScript/221029.md)
 - [221028 / Object](JavaScript/221028.md)
