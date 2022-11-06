@@ -1,0 +1,14 @@
+body {
+  background-color: gainsboro;
+}
+
+#quote span:first-child {
+  display: block;
+}
+#quote span:last-child {
+  display: block;
+  text-align: right;
+}
+#quote span:last-child::before {
+  content: "- ";
+}
