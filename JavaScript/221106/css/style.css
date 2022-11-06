@@ -1,19 +1,44 @@
 body {
-  background-color: gainsboro;
+  background-color: black;
+}
+.wrapper {
+  min-height: 100vh;
+}
+#quote {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 30px;
+}
+
+#quote span {
+  color: antiquewhite;
+  margin: 50px;
+  display: block;
 }
 
 #quote span:first-child {
-  display: block;
   text-align: center;
+  font-size: 1.5em;
 }
 #quote span:last-child {
-  display: block;
   text-align: right;
+  font-size: 1.1em;
+  font-style: italic;
 }
 #quote span:last-child::before {
   content: "- ";
 }
 
-img {
+#bgimg {
+  position: absolute;
   width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: -1;
+  opacity: 80%;
 }
