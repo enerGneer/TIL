@@ -16,6 +16,7 @@ body {
   color: antiquewhite;
   margin: 50px;
   display: block;
+  text-shadow: 2px 2px 10px #222;
 }
 
 #quote span:first-child {
