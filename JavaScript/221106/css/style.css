@@ -4,6 +4,7 @@ body {
 
 #quote span:first-child {
   display: block;
+  text-align: center;
 }
 #quote span:last-child {
   display: block;
@@ -11,4 +12,8 @@ body {
 }
 #quote span:last-child::before {
   content: "- ";
+}
+
+img {
+  width: 100%;
 }

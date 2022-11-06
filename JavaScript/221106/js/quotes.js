@@ -41,7 +41,7 @@ const quotes = [
   },
 ];
 
-const quoteView = document.getElementById("quote");
+// const quoteView = document.getElementById("quote");
 const quote = document.querySelector("#quote span:first-child");
 const author = document.querySelector("#quote span:last-child");
 //HTML의 quote ID 가져오기
