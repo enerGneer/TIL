@@ -4,6 +4,8 @@
 
 ## JAVASCRIPT
 
+- [221108 / FiX To do list](JavaScript/221108/)
+- [221107 / Create To do list](JavaScript/221107/)
 - [221105 / Random](JavaScript/221106/)
 - [221105 / Clock](JavaScript/221105/)
 - [221104 / Login](JavaScript/221104/)
@@ -48,16 +50,17 @@
 
 ## Basics
 
+- [221108 / DataBase](Basics/221108.md)
 - [221107 / IP, HTTP](Basics/221107.md)
 - [221026 / framework, library, API, XML, JSON, YAML, AJAX, DOM](Basics/221026.md)
 - [221025 / Cookie, Session, Token, Cache, CDN](Basics/221025.md)
 - [221023 / Server, Client, IDC](Basics/221023.md)
 
-## Book
+## Books
 
 - [221012 / 혼자 공부하는 얄팍한 코딩지식](https://energneer.vercel.app/book-yalco)
 - [220928 / 커리어 스킬](https://energneer.vercel.app/book-careerskill)
 
 ## 📔Retrospective
 
-- [2022.09~10](https://energneer.vercel.app/202209-10)
+- [2022.09~11](https://energneer.vercel.app/202209-11)
