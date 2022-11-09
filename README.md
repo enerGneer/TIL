@@ -50,6 +50,7 @@
 
 ## Basics
 
+- [221109 / SQL](Basics/221109.md)
 - [221108 / DataBase](Basics/221108.md)
 - [221107 / IP, HTTP](Basics/221107.md)
 - [221026 / framework, library, API, XML, JSON, YAML, AJAX, DOM](Basics/221026.md)
@@ -58,7 +59,7 @@
 
 ## Books
 
-- [221012 / 혼자 공부하는 얄팍한 코딩지식](https://energneer.vercel.app/book-yalco)
+- [221012~ / 혼자 공부하는 얄팍한 코딩지식](https://energneer.vercel.app/book-yalco)
 - [220928 / 커리어 스킬](https://energneer.vercel.app/book-careerskill)
 
 ## 📔Retrospective
