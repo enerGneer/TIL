@@ -1,6 +1,24 @@
-# TIL : Today I Learnd
+# TIL : Today I Learned
 
-:books: Archives of my daily learnings
+### :books: Archives of my daily learnings
+
+오늘 배운 내용을 남김없이 기록하는 페이지입니다.
+
+---
+
+### :book: Wiki page
+
+https://energneer.gitbook.io/wiki
+
+> 배운 내용 중 다시 찾아볼 내용들을 위키 형식으로 보기 쉽게 기록하는 페이지입니다.
+
+### :memo: Blog
+
+https://energneer.vercel.app
+
+> 오류 해결 분투기, 책 리뷰, 회고, 세미나 후기 등을 기록하는 블로그입니다.
+
+---
 
 ## JAVASCRIPT
 
@@ -57,11 +75,10 @@
 - [221025 / Cookie, Session, Token, Cache, CDN](Basics/221025.md)
 - [221023 / Server, Client, IDC](Basics/221023.md)
 
-## Books
+## 📔 Books
 
-- [221012~ / 혼자 공부하는 얄팍한 코딩지식](https://energneer.vercel.app/book-yalco)
-- [220928 / 커리어 스킬](https://energneer.vercel.app/book-careerskill)
+[:link: Blog - Book Report Page](https://energneer.vercel.app/book-report)
 
-## 📔Retrospective
-
-- [2022.09~11](https://energneer.vercel.app/202209-11)
+- 22.11 / 프로그래머의 길, 멘토에게 묻다
+- 22.10-11 / 혼자 공부하는 얄팍한 코딩지식
+- 22.09-10 / 커리어 스킬
