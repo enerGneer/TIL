@@ -49,6 +49,7 @@ https://energneer.vercel.app
 
 ## Next.js
 
+- [221113 / Nextra page translate](Next.js/221113.md)
 - [221023 / Nextra setting](Next.js/221023.md)
 - [221018 / Next.js](Next.js/221018.md)
 - [221017 / nextjs notion starter kit](https://energneer.vercel.app/create-notion-blog)
