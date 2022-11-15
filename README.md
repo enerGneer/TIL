@@ -80,6 +80,7 @@ https://energneer.vercel.app
 
 [:link: Blog - Book Report Page](https://energneer.vercel.app/book-report)
 
-- 22.11 / 프로그래머의 길, 멘토에게 묻다
-- 22.10-11 / 혼자 공부하는 얄팍한 코딩지식
-- 22.09-10 / 커리어 스킬
+- 22.11- | Clean Code (클린 코드) / 로버트 C. 마틴
+- 22.11 | 프로그래머의 길, 멘토에게 묻다 (Apprenticeship Patterns) / 데이브 후버, 애디웨일 오시나이
+- 22.10-11 | 혼자 공부하는 얄팍한 코딩지식 / 고현민
+- 22.09-10 | 커리어 스킬 (The Complete Software Developer's Career Guide) / 존 손메즈
