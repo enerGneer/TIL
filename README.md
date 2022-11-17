@@ -56,6 +56,7 @@ https://energneer.vercel.app
 
 ## Git
 
+- [221117 / reset](Git/221117.md)
 - [221028 / amend](Git/221028.md)
 - [221025 / Git](Git/221025.md)
 - [221012 / Connect Github with Source Tree & VSCode](git/221012.md)
