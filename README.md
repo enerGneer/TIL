@@ -22,6 +22,7 @@ https://energneer.vercel.app
 
 ## JAVASCRIPT
 
+- [221117 / Local Storage](JavaScript/221117,md)
 - [221108 / FiX To do list](JavaScript/221108/)
 - [221107 / Create To do list](JavaScript/221107/)
 - [221105 / Random](JavaScript/221106/)
@@ -40,6 +41,7 @@ https://energneer.vercel.app
 
 ## HTML & CSS
 
+- [221117 / Image alignment](Html&Css/221117.md)
 - [221103 / CSS Selector](Html&Css/221103.md)
 - [221024 / Responsible & Grid](Html&Css/221024.md)
 - [221023 / backdrop-filter](Html&Css/221023.md)

@@ -1,0 +1,65 @@
+# Local Storage
+
+## Storage.getItem()
+
+local storage에 있는 item을 가져올 때 사용한다.
+
+```js
+getItem(keyName);
+```
+
+```js
+const currentColor = localStorage.getItem("bgcolor");
+```
+
+## Storage.setItem()
+
+local storage에 key와 value값을 set할 때 사용한다.
+
+```js
+setItem(keyName, keyValue);
+```
+
+```js
+function populateStorage() {
+  localStorage.setItem("bgcolor", "red");
+  localStorage.setItem("font", "Helvetica");
+  localStorage.setItem("image", "myCat.png");
+}
+```
+
+## Storage.removeItem()
+
+local storage의 item을 삭제할 때 사용한다.
+
+```js
+removeItem(keyName);
+```
+
+```js
+function populateStorage() {
+  localStorage.setItem("bgcolor", "red");
+  localStorage.setItem("font", "Helvetica");
+  localStorage.setItem("image", "myCat.png");
+
+  localStorage.removeItem("image");
+}
+```
+
+## Storage.length
+
+저장되어있는 item의 개수를 구할 때 쓴다.
+
+```js
+function populateStorage() {
+  localStorage.setItem("bgcolor", "yellow");
+  localStorage.setItem("font", "Helvetica");
+  localStorage.setItem("image", "cats.png");
+
+  return localStorage.length; // Should return 3 (3을 반환한다)
+}
+```
+
+## REF
+
+- https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem
