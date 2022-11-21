@@ -56,6 +56,10 @@ https://energneer.vercel.app
 - [221018 / Next.js](Next.js/221018.md)
 - [221017 / nextjs notion starter kit](https://energneer.vercel.app/create-notion-blog)
 
+## Node.js
+
+- [221121 / How to make Discord bot](Node.js/221121.md)
+
 ## Git
 
 - [221120 / About GitHub](Git/221120.md)
