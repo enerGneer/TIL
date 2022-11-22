@@ -6,15 +6,11 @@
 
 ---
 
-### :book: Wiki page
-
-https://energneer.gitbook.io/wiki
+### :book: [Wiki page](https://energneer.gitbook.io/wiki)
 
 > 배운 내용 중 다시 찾아볼 내용들을 위키 형식으로 보기 쉽게 기록하는 페이지입니다.
 
-### :memo: Blog
-
-https://energneer.vercel.app
+### :memo: [Blog](https://energneer.vercel.app)
 
 > 오류 해결 분투기, 책 리뷰, 회고, 세미나 후기 등을 기록하는 블로그입니다.
 
@@ -58,6 +54,7 @@ https://energneer.vercel.app
 
 ## Node.js
 
+- [221122 / How to make Discord bot](Node.js/221121.md)
 - [221121 / How to make Discord bot](Node.js/221121.md)
 
 ## Git
@@ -78,6 +75,7 @@ https://energneer.vercel.app
 
 ## Basics
 
+- [221122 / Clean Code Approach - Naming](Basics/221122.md)
 - [221109 / SQL](Basics/221109.md)
 - [221108 / DataBase](Basics/221108.md)
 - [221107 / IP, HTTP](Basics/221107.md)
