@@ -59,11 +59,12 @@
 
 ## Git
 
+- [221128 / Commit Message](Git/221128.md)
 - [221120 / About GitHub](Git/221120.md)
 - [221117 / reset](Git/221117.md)
 - [221028 / amend](Git/221028.md)
 - [221025 / Git](Git/221025.md)
-- [221012 / Connect Github with Source Tree & VSCode](git/221012.md)
+- [221012 / Connect Github with Source Tree & VSCode](Git/221012.md)
 - [220921 / start](Git/220921.md)
 
 ## ETC
