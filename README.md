@@ -85,6 +85,10 @@
 - [221025 / Cookie, Session, Token, Cache, CDN](Basics/221025.md)
 - [221023 / Server, Client, IDC](Basics/221023.md)
 
+## Engineer Information Processing
+
+- [221129 / Software design(1)](EIP/221129.md)
+
 ## 📔 Books
 
 [:link: Blog - Book Report Page](https://energneer.vercel.app/book-report)
