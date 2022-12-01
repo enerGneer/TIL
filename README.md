@@ -35,6 +35,18 @@
 - [221010 / Function](JavaScript/221010.md)
 - [221008 / Javascript, Datatype, Refactoring](JavaScript/221008.md)
 
+### Next.js
+
+- [221113 / Nextra page translate](Next.js/221113.md)
+- [221023 / Nextra setting](Next.js/221023.md)
+- [221018 / Next.js](Next.js/221018.md)
+- [221017 / nextjs notion starter kit](https://energneer.vercel.app/create-notion-blog)
+
+### Node.js
+
+- [221122 / How to make Discord bot](Node.js/221121.md)
+- [221121 / How to make Discord bot](Node.js/221121.md)
+
 ## HTML & CSS
 
 - [221117 / Image alignment](Html&Css/221117.md)
@@ -44,18 +56,6 @@
 - [221007 / css](Html&Css/221007.md)
 - [221006 / HTML & Internet](Html&Css/221006.md)
 - [220917 / em, >, list](Html&Css/220917.md)
-
-## Next.js
-
-- [221113 / Nextra page translate](Next.js/221113.md)
-- [221023 / Nextra setting](Next.js/221023.md)
-- [221018 / Next.js](Next.js/221018.md)
-- [221017 / nextjs notion starter kit](https://energneer.vercel.app/create-notion-blog)
-
-## Node.js
-
-- [221122 / How to make Discord bot](Node.js/221121.md)
-- [221121 / How to make Discord bot](Node.js/221121.md)
 
 ## Git
 
@@ -67,12 +67,14 @@
 - [221012 / Connect Github with Source Tree & VSCode](Git/221012.md)
 - [220921 / start](Git/220921.md)
 
-## ETC
+## C
 
-- [221117 / Markdown](ETC/221025.md)
-- [221028 / VSCode](https://energneer.vercel.app/vscode)
-- [221025 / Markdown](ETC/221025.md)
-- [221007 / Atom Package Install](https://energneer.vercel.app/atom-issue)
+- [221201 / Programming, Compiler&Interpreter](C/221201.md)
+
+## Engineer Information Processing
+
+- [221129 / Software design(2)](EIP/221201.md)
+- [221129 / Software design(1)](EIP/221129.md)
 
 ## Basics
 
@@ -86,16 +88,18 @@
 - [221025 / Cookie, Session, Token, Cache, CDN](Basics/221025.md)
 - [221023 / Server, Client, IDC](Basics/221023.md)
 
-## Engineer Information Processing
+## ETC
 
-- [221129 / Software design(2)](EIP/221201.md)
-- [221129 / Software design(1)](EIP/221129.md)
+- [221117 / Markdown](ETC/221025.md)
+- [221028 / VSCode](https://energneer.vercel.app/vscode)
+- [221025 / Markdown](ETC/221025.md)
+- [221007 / Atom Package Install](https://energneer.vercel.app/atom-issue)
 
 ## 📔 Books
 
 [:link: Blog - Book Report Page](https://energneer.vercel.app/book-report)
 
-- 22.11- | Clean Code (클린 코드) / 로버트 C. 마틴
+- 22.11-12 | Clean Code (클린 코드) / 로버트 C. 마틴
 - 22.11 | 프로그래머의 길, 멘토에게 묻다 (Apprenticeship Patterns) / 데이브 후버, 애디웨일 오시나이
 - 22.10-11 | 혼자 공부하는 얄팍한 코딩지식 / 고현민
 - 22.09-10 | 커리어 스킬 (The Complete Software Developer's Career Guide) / 존 손메즈
