@@ -87,6 +87,7 @@
 
 ## Engineer Information Processing
 
+- [221129 / Software design(2)](EIP/221201.md)
 - [221129 / Software design(1)](EIP/221129.md)
 
 ## 📔 Books
