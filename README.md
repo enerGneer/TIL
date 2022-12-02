@@ -69,6 +69,7 @@
 
 ## C
 
+- [221201 / Variable](C/221202.md)
 - [221201 / Programming, Compiler&Interpreter](C/221201.md)
 
 ## Engineer Information Processing
