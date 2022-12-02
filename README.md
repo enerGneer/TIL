@@ -80,6 +80,7 @@
 
 ## Basics
 
+- [221202 / Bit, Byte, Data type](Basics/221202.md)
 - [221201 / CPU, Memory, I/O, Process, Thread](Basics/221201.md)
 - [221123 / Operating System](Basics/221123.md)
 - [221122 / Clean Code Approach - Naming](Basics/221122.md)
