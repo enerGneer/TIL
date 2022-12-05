@@ -6,13 +6,9 @@
 
 ---
 
-##### :book: [Wiki page](https://energneer.gitbook.io/wiki)
+##### :book: [Wiki page](https://energneer.gitbook.io/wiki) : 배운 내용 중 다시 찾아볼 내용들을 위키 형식으로 보기 쉽게 기록하는 페이지입니다.
 
-> 배운 내용 중 다시 찾아볼 내용들을 위키 형식으로 보기 쉽게 기록하는 페이지입니다.
-
-##### :memo: [Blog](https://energneer.vercel.app)
-
-> 오류 해결 분투기, 책 리뷰, 회고, 세미나 후기 등을 기록하는 블로그입니다.
+##### :memo: [Blog](https://energneer.vercel.app) : 오류 해결 분투기, 책 리뷰, 회고, 세미나 후기 등을 기록하는 블로그입니다.
 
 ---
 
@@ -80,8 +76,9 @@
 - [221201 / Software design(2)](EIP/221201.md)
 - [221129 / Software design(1)](EIP/221129.md)
 
-## Basics
+## Computer Science
 
+- [221205 / Compile, OOP, Memory, Error](Basics/221205.md)
 - [221203 / Binary, Computing's Origins](Basics/221203.md)
 - [221202 / Bit, Byte, Data type](Basics/221202.md)
 - [221201 / CPU, Memory, I/O, Process, Thread](Basics/221201.md)
