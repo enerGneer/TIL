@@ -65,7 +65,8 @@
 
 ## C
 
-- [221203 / Arithmetic operator](C/221202.md)
+- [221206 / Unary operator](C/221206.md)
+- [221203 / Arithmetic operator](C/221203.md)
 - [221202 / Variable](C/221202.md)
 - [221201 / Programming, Compiler&Interpreter](C/221201.md)
 
