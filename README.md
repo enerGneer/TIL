@@ -78,6 +78,7 @@
 
 ## Computer Science
 
+- [221206 / Package Manager, Environment](Basics/221206.md)
 - [221205 / Compile, OOP, Memory, Error](Basics/221205.md)
 - [221203 / Binary, Computing's Origins](Basics/221203.md)
 - [221202 / Bit, Byte, Data type](Basics/221202.md)
