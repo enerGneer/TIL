@@ -71,6 +71,7 @@
 
 ## Engineer Information Processing
 
+- [221206 / Software design(5)](EIP/221206.md)
 - [221203 / Software design(4)](EIP/221203.md)
 - [221202 / Software design(3)](EIP/221202.md)
 - [221201 / Software design(2)](EIP/221201.md)
