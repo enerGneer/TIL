@@ -65,6 +65,7 @@
 
 ## C
 
+- [221206 / Relational&logical operator, If](C/221212.md)
 - [221206 / Unary operator](C/221206.md)
 - [221203 / Arithmetic operator](C/221203.md)
 - [221202 / Variable](C/221202.md)
