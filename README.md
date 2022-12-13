@@ -65,7 +65,8 @@
 
 ## C
 
-- [221206 / Relational&logical operator, If](C/221212.md)
+- [221213 / Operator, Output](C/221213.md)
+- [221212 / Relational&logical operator, If](C/221212.md)
 - [221206 / Unary operator](C/221206.md)
 - [221203 / Arithmetic operator](C/221203.md)
 - [221202 / Variable](C/221202.md)
@@ -73,6 +74,7 @@
 
 ## Engineer Information Processing
 
+- [221213 / Software design(6)](EIP/221213.md)
 - [221206 / Software design(5)](EIP/221206.md)
 - [221203 / Software design(4)](EIP/221203.md)
 - [221202 / Software design(3)](EIP/221202.md)
@@ -106,7 +108,8 @@
 
 [:link: Blog - Book Report Page](https://energneer.vercel.app/book-report)
 
+- 22.12 | 개발자의 글쓰기 / 김철수
 - 22.11-12 | Clean Code (클린 코드) / 로버트 C. 마틴
-- 22.11 | 프로그래머의 길, 멘토에게 묻다 (Apprenticeship Patterns) / 데이브 후버, 애디웨일 오시나이
+- 22.11-12 | 프로그래머의 길, 멘토에게 묻다 (Apprenticeship Patterns) / 데이브 후버, 애디웨일 오시나이
 - 22.10-11 | 혼자 공부하는 얄팍한 코딩지식 / 고현민
 - 22.09-10 | 커리어 스킬 (The Complete Software Developer's Career Guide) / 존 손메즈
