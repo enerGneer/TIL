@@ -12,7 +12,7 @@
 
 ---
 
-## JAVASCRIPT
+## JavaScript
 
 - [221213 / Play with Youtube](JavaScript/221213.md)
 - [221117 / Local Storage](JavaScript/221117.md)
@@ -54,16 +54,6 @@
 - [221006 / HTML & Internet](Html&Css/221006.md)
 - [220917 / em, >, list](Html&Css/220917.md)
 
-## Git
-
-- [221128 / Commit Message](Git/221128.md)
-- [221120 / About GitHub](Git/221120.md)
-- [221117 / reset](Git/221117.md)
-- [221028 / amend](Git/221028.md)
-- [221025 / Git](Git/221025.md)
-- [221012 / Connect Github with Source Tree & VSCode](Git/221012.md)
-- [220921 / start](Git/220921.md)
-
 ## C
 
 - [221213 / Operator, Output](C/221213.md)
@@ -72,15 +62,6 @@
 - [221203 / Arithmetic operator](C/221203.md)
 - [221202 / Variable](C/221202.md)
 - [221201 / Programming, Compiler&Interpreter](C/221201.md)
-
-## Engineer Information Processing
-
-- [221213 / Software design(6)](EIP/221213.md)
-- [221206 / Software design(5)](EIP/221206.md)
-- [221203 / Software design(4)](EIP/221203.md)
-- [221202 / Software design(3)](EIP/221202.md)
-- [221201 / Software design(2)](EIP/221201.md)
-- [221129 / Software design(1)](EIP/221129.md)
 
 ## Computer Science
 
@@ -98,6 +79,29 @@
 - [221025 / Cookie, Session, Token, Cache, CDN](Basics/221025.md)
 - [221023 / Server, Client, IDC](Basics/221023.md)
 
+## Algorithm
+
+- [221214/the Basis of Algorithm](Algorithm/221214.md)
+
+## Engineer Information Processing
+
+- [221213 / Software design(6)](EIP/221213.md)
+- [221206 / Software design(5)](EIP/221206.md)
+- [221203 / Software design(4)](EIP/221203.md)
+- [221202 / Software design(3)](EIP/221202.md)
+- [221201 / Software design(2)](EIP/221201.md)
+- [221129 / Software design(1)](EIP/221129.md)
+
+## Git
+
+- [221128 / Commit Message](Git/221128.md)
+- [221120 / About GitHub](Git/221120.md)
+- [221117 / reset](Git/221117.md)
+- [221028 / amend](Git/221028.md)
+- [221025 / Git](Git/221025.md)
+- [221012 / Connect Github with Source Tree & VSCode](Git/221012.md)
+- [220921 / start](Git/220921.md)
+
 ## ETC
 
 - [221117 / Markdown](ETC/221025.md)
@@ -109,6 +113,7 @@
 
 [:link: Blog - Book Report Page](https://energneer.vercel.app/book-report)
 
+- 22.12 | 처음 만나는 알고리즘 (アルゴリズムを、はじめよう) / 이토 시즈카
 - 22.12 | 개발자의 글쓰기 / 김철수
 - 22.11-12 | Clean Code (클린 코드) / 로버트 C. 마틴
 - 22.11-12 | 프로그래머의 길, 멘토에게 묻다 (Apprenticeship Patterns) / 데이브 후버, 애디웨일 오시나이
