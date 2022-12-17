@@ -56,6 +56,7 @@
 
 ## C
 
+- [221217 / Bitwise operation](C/221217.md)
 - [221213 / Operator, Output](C/221213.md)
 - [221212 / Relational&logical operator, If](C/221212.md)
 - [221206 / Unary operator](C/221206.md)
