@@ -56,6 +56,7 @@
 
 ## C
 
+- [221219 / Triad operator, Switch](C/221219.md)
 - [221218 / Macro](C/221218.md)
 - [221217 / Bitwise operation](C/221217.md)
 - [221213 / Operator, Output](C/221213.md)
