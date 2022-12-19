@@ -87,10 +87,7 @@
 
 ## Engineer Information Processing
 
-<!--
 - [221219 / Software design - Interface](EIP/221219.md)
--->
-
 - [221218 / Software design - Interface](EIP/221218.md)
 - [221217 / Software design - OOP](EIP/221217.md)
 - [221214 / Software design - Module](EIP/221214.md)
