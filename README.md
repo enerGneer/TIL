@@ -56,6 +56,7 @@
 
 ## C
 
+- [221220 / Loop(1)](C/221220.md)
 - [221219 / Triad operator, Switch](C/221219.md)
 - [221218 / Macro](C/221218.md)
 - [221217 / Bitwise operation](C/221217.md)
@@ -82,12 +83,17 @@
 - [221025 / Cookie, Session, Token, Cache, CDN](Basics/221025.md)
 - [221023 / Server, Client, IDC](Basics/221023.md)
 
-## Algorithm
+## Data Structure & Algorithm
 
 - [221214/the Basis of Algorithm](Algorithm/221214.md)
 
 ## Engineer Information Processing
 
+<!--
+- [221221 / Software development - Data Structure](EIP/221221.md)
+-->
+
+- [221220 / Software development - Data Structure(1)](EIP/221220.md)
 - [221219 / Software design - Interface](EIP/221219.md)
 - [221218 / Software design - Interface](EIP/221218.md)
 - [221217 / Software design - OOP](EIP/221217.md)
@@ -96,8 +102,8 @@
 - [221206 / Software design - UI](EIP/221206.md)
 - [221203 / Software design - Modeling](EIP/221203.md)
 - [221202 / Software design - Requirement](EIP/221202.md)
-- [221201 / Software design - Analysis](EIP/221201.md)
-- [221129 / Software design - Analysis](EIP/221129.md)
+- [221201 / Software design - Analysis(2)](EIP/221201.md)
+- [221129 / Software design - Analysis(1)](EIP/221129.md)
 
 ## Git
 
