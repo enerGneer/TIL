@@ -85,12 +85,15 @@
 
 ## Data Structure & Algorithm
 
+- [221221/Data Structure](Algorithm/221221.md)
+- [221220/the Basis of Algorithm](Algorithm/221220.md)
+- [221219/the Basis of Algorithm](Algorithm/221219.md)
 - [221214/the Basis of Algorithm](Algorithm/221214.md)
 
 ## Engineer Information Processing
 
 <!--
-- [221221 / Software development - Data Structure](EIP/221221.md)
+- [221222 / Software development - Data Structure(2)](EIP/221222.md)
 -->
 
 - [221220 / Software development - Data Structure(1)](EIP/221220.md)
@@ -126,6 +129,8 @@
 
 [:link: Blog - Book Report Page](https://energneer.vercel.app/book-report)
 
+- 22.12 | 알고리즘 도감 (アルゴリズム圖鑑) / 이시다 모리테루, 미야자키 쇼이치
+- 22.12 | 그림으로 배우는 알고리즘 Basic (「アルゴリズム」のキホン) /스기우라 켄
 - 22.12 | 처음 만나는 알고리즘 (アルゴリズムを、はじめよう) / 이토 시즈카
 - 22.12 | 개발자의 글쓰기 / 김철수
 - 22.11-12 | Clean Code (클린 코드) / 로버트 C. 마틴
