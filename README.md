@@ -70,6 +70,7 @@
 
 ## Computer Science
 
+- [221222 / Logic Gate, ALU](Basics/221222.md)
 - [221206 / Package Manager, Environment](Basics/221206.md)
 - [221205 / Compile, OOP, Memory, Error](Basics/221205.md)
 - [221203 / Binary, Computing's Origins](Basics/221203.md)
@@ -131,7 +132,7 @@
 - 22.12 | 그림으로 배우는 알고리즘 Basic (「アルゴリズム」のキホン) /스기우라 켄
 - 22.12 | 처음 만나는 알고리즘 (アルゴリズムを、はじめよう) / 이토 시즈카
 - 22.12 | 개발자의 글쓰기 / 김철수
-- 22.11-12 | Clean Code (클린 코드) / 로버트 C. 마틴
+- 22.11-23.01 | Clean Code (클린 코드) / 로버트 C. 마틴
 - 22.11-12 | 프로그래머의 길, 멘토에게 묻다 (Apprenticeship Patterns) / 데이브 후버, 애디웨일 오시나이
 - 22.10-11 | 혼자 공부하는 얄팍한 코딩지식 / 고현민
 - 22.09-10 | 커리어 스킬 (The Complete Software Developer's Career Guide) / 존 손메즈
