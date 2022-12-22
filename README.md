@@ -56,6 +56,7 @@
 
 ## C
 
+- [221222 / Loop(2)](C/221222.md)
 - [221220 / Loop(1)](C/221220.md)
 - [221219 / Triad operator, Switch](C/221219.md)
 - [221218 / Macro](C/221218.md)
@@ -92,10 +93,7 @@
 
 ## Engineer Information Processing
 
-<!--
 - [221222 / Software development - Data Structure(2)](EIP/221222.md)
--->
-
 - [221220 / Software development - Data Structure(1)](EIP/221220.md)
 - [221219 / Software design - Interface](EIP/221219.md)
 - [221218 / Software design - Interface](EIP/221218.md)
