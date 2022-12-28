@@ -56,6 +56,7 @@
 
 ## Computer Science
 
+- [221223 / CPU](Basics/221223.md)
 - [221222 / Logic Gate, ALU](Basics/221222.md)
 - [221206 / Package Manager, Environment](Basics/221206.md)
 - [221205 / Compile, OOP, Memory, Error](Basics/221205.md)
@@ -80,6 +81,11 @@
 
 ## Engineer Information Processing
 
+<!--
+- [221229 / Software development - Integration](EIP/221229.md)
+-->
+
+- [221228 / Software development - Module](EIP/221228.md)
 - [221223 / Software development - Procedure](EIP/221223.md)
 - [221222 / Software development - Data Structure(2)](EIP/221222.md)
 - [221220 / Software development - Data Structure(1)](EIP/221220.md)
@@ -96,6 +102,7 @@
 
 ## C
 
+- [221228 / Array(1)](C/221228.md)
 - [221223 / Loop(3)](C/221223.md)
 - [221222 / Loop(2)](C/221222.md)
 - [221220 / Loop(1)](C/221220.md)
