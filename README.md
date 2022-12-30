@@ -81,6 +81,7 @@
 
 ## Engineer Information Processing
 
+- [221230 / Software packaging - Packaging](EIP/221230.md)
 - [221229 / Software development - Integration](EIP/221229.md)
 - [221228 / Software development - Module](EIP/221228.md)
 - [221223 / Software development - Procedure](EIP/221223.md)
