@@ -81,6 +81,7 @@
 
 ## Engineer Information Processing
 
+- [230104 / Software packaging - Manual](EIP/230104.md)
 - [221230 / Software packaging - Packaging](EIP/221230.md)
 - [221229 / Software development - Integration](EIP/221229.md)
 - [221228 / Software development - Module](EIP/221228.md)
@@ -100,6 +101,7 @@
 
 ## C
 
+- [230104 / Array & Pointer](C/220104.md)
 - [221230 / Pointer](C/221230.md)
 - [221229 / Array(2)](C/221229.md)
 - [221228 / Array(1)](C/221228.md)
