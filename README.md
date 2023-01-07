@@ -81,6 +81,8 @@
 
 ## Engineer Information Processing
 
+- [230107 / Software packaging - Test](EIP/230107.md)
+- [230105 / Software packaging - Version control](EIP/230105.md)
 - [230104 / Software packaging - Manual](EIP/230104.md)
 - [221230 / Software packaging - Packaging](EIP/221230.md)
 - [221229 / Software development - Integration](EIP/221229.md)
@@ -130,6 +132,7 @@
 
 ## ETC
 
+- [230107 / BAT](ETC/230107.md)
 - [221117 / Markdown](ETC/221025.md)
 - [221028 / VSCode](https://energneer.vercel.app/vscode)
 - [221025 / Markdown](ETC/221025.md)
