@@ -104,7 +104,8 @@
 
 ## C
 
-- [230104 / Array & Pointer](C/220104.md)
+- [230108 / Array & Pointer(2)](C/220108.md)
+- [230104 / Array & Pointer(1)](C/220104.md)
 - [221230 / Pointer](C/221230.md)
 - [221229 / Array(2)](C/221229.md)
 - [221228 / Array(1)](C/221228.md)
