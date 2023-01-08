@@ -56,7 +56,8 @@
 
 ## Computer Science
 
-- [221223 / CPU](Basics/221223.md)
+- [230108 / CPU(2)](Basics/230108.md)
+- [221223 / CPU(1)](Basics/221223.md)
 - [221222 / Logic Gate, ALU](Basics/221222.md)
 - [221206 / Package Manager, Environment](Basics/221206.md)
 - [221205 / Compile, OOP, Memory, Error](Basics/221205.md)
