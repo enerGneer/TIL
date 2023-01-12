@@ -56,6 +56,7 @@
 
 ## Computer Science
 
+- [230112 / CPU(3)](Basics/230112.md)
 - [230108 / CPU(2)](Basics/230108.md)
 - [221223 / CPU(1)](Basics/221223.md)
 - [221222 / Logic Gate, ALU](Basics/221222.md)
