@@ -82,6 +82,7 @@
 
 ## Engineer Information Processing
 
+- [230112 / Database(3)](EIP/230112.md)
 - [230111 / Database(2)](EIP/230111.md)
 - [230110 / Database(1)](EIP/230110.md)
 - [230108 / Software packaging - Algorithm, Interface](EIP/230108.md)
@@ -147,11 +148,11 @@
 
 [:link: Blog - Book Report Page](https://energneer.vercel.app/book-report)
 
-- 22.12 | 알고리즘 도감 (アルゴリズム圖鑑) / 이시다 모리테루, 미야자키 쇼이치
-- 22.12 | 그림으로 배우는 알고리즘 Basic (「アルゴリズム」のキホン) /스기우라 켄
-- 22.12 | 처음 만나는 알고리즘 (アルゴリズムを、はじめよう) / 이토 시즈카
-- 22.12 | 개발자의 글쓰기 / 김철수
-- 22.11-23.01 | Clean Code (클린 코드) / 로버트 C. 마틴
-- 22.11-12 | 프로그래머의 길, 멘토에게 묻다 (Apprenticeship Patterns) / 데이브 후버, 애디웨일 오시나이
+- 22.12- | 알고리즘 도감 (アルゴリズム圖鑑) / 이시다 모리테루, 미야자키 쇼이치
+- 22.12- | 그림으로 배우는 알고리즘 Basic (「アルゴリズム」のキホン) /스기우라 켄
+- 22.12- | 처음 만나는 알고리즘 (アルゴリズムを、はじめよう) / 이토 시즈카
+- 22.12- | 개발자의 글쓰기 / 김철수
+- 22.11- | Clean Code (클린 코드) / 로버트 C. 마틴
+- 22.11- | 프로그래머의 길, 멘토에게 묻다 (Apprenticeship Patterns) / 데이브 후버, 애디웨일 오시나이
 - 22.10-11 | 혼자 공부하는 얄팍한 코딩지식 / 고현민
-- 22.09-10 | 커리어 스킬 (The Complete Software Developer's Career Guide) / 존 손메즈
+- 22.09- | 커리어 스킬 (The Complete Software Developer's Career Guide) / 존 손메즈
