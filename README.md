@@ -56,6 +56,7 @@
 
 ## Computer Science
 
+- [230114 / Programming Language, IC, OS](Basics/230114.md)
 - [230112 / CPU(3)](Basics/230112.md)
 - [230108 / CPU(2)](Basics/230108.md)
 - [221223 / CPU(1)](Basics/221223.md)
