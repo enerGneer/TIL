@@ -12,6 +12,8 @@
 
 ---
 
+# Programming Language
+
 ## JavaScript
 
 - [221213 / Play with Youtube](JavaScript/221213.md)
@@ -54,7 +56,39 @@
 - [221006 / HTML & Internet](Html&Css/221006.md)
 - [220917 / em, >, list](Html&Css/220917.md)
 
-## Computer Science
+## Python
+
+-
+
+## Java
+
+-
+
+## C
+
+- [230116 / Pointer to Array](C/220116.md)
+- [230112 / 2D Array & Pointer](C/220112.md)
+- [230108 / Array & Pointer(2)](C/220108.md)
+- [230104 / Array & Pointer(1)](C/220104.md)
+- [221230 / Pointer](C/221230.md)
+- [221229 / Array(2)](C/221229.md)
+- [221228 / Array(1)](C/221228.md)
+- [221223 / Loop(3)](C/221223.md)
+- [221222 / Loop(2)](C/221222.md)
+- [221220 / Loop(1)](C/221220.md)
+- [221219 / Triad operator, Switch](C/221219.md)
+- [221218 / Macro](C/221218.md)
+- [221217 / Bitwise operation](C/221217.md)
+- [221213 / Operator, Output](C/221213.md)
+- [221212 / Relational&logical operator, If](C/221212.md)
+- [221206 / Unary operator](C/221206.md)
+- [221203 / Arithmetic operator](C/221203.md)
+- [221202 / Variable](C/221202.md)
+- [221201 / Programming, Compiler&Interpreter](C/221201.md)
+
+---
+
+# Computer Science
 
 - [230114 / Programming Language, IC, OS](Basics/230114.md)
 - [230112 / CPU(3)](Basics/230112.md)
@@ -82,8 +116,13 @@
 - [221219/the Basis of Algorithm](Algorithm/221219.md)
 - [221214/the Basis of Algorithm](Algorithm/221214.md)
 
+## Database
+
+- [220116/SQL Syntax](Database/230116.md)
+
 ## Engineer Information Processing
 
+- [230115 / Database(4)](EIP/230115.md)
 - [230112 / Database(3)](EIP/230112.md)
 - [230111 / Database(2)](EIP/230111.md)
 - [230110 / Database(1)](EIP/230110.md)
@@ -108,27 +147,15 @@
 - [221201 / Software design - Analysis(2)](EIP/221201.md)
 - [221129 / Software design - Analysis(1)](EIP/221129.md)
 
-## C
+---
 
-- [230116 / Pointer to Array](C/220116.md)
-- [230112 / 2D Array & Pointer](C/220112.md)
-- [230108 / Array & Pointer(2)](C/220108.md)
-- [230104 / Array & Pointer(1)](C/220104.md)
-- [221230 / Pointer](C/221230.md)
-- [221229 / Array(2)](C/221229.md)
-- [221228 / Array(1)](C/221228.md)
-- [221223 / Loop(3)](C/221223.md)
-- [221222 / Loop(2)](C/221222.md)
-- [221220 / Loop(1)](C/221220.md)
-- [221219 / Triad operator, Switch](C/221219.md)
-- [221218 / Macro](C/221218.md)
-- [221217 / Bitwise operation](C/221217.md)
-- [221213 / Operator, Output](C/221213.md)
-- [221212 / Relational&logical operator, If](C/221212.md)
-- [221206 / Unary operator](C/221206.md)
-- [221203 / Arithmetic operator](C/221203.md)
-- [221202 / Variable](C/221202.md)
-- [221201 / Programming, Compiler&Interpreter](C/221201.md)
+# ETC
+
+- [230107 / BAT](ETC/230107.md)
+- [221117 / Markdown](ETC/221025.md)
+- [221028 / VSCode](https://energneer.vercel.app/vscode)
+- [221025 / Markdown](ETC/221025.md)
+- [221007 / Atom Package Install](https://energneer.vercel.app/atom-issue)
 
 ## Git
 
@@ -140,23 +167,19 @@
 - [221012 / Connect Github with Source Tree & VSCode](Git/221012.md)
 - [220921 / start](Git/220921.md)
 
-## ETC
-
-- [230107 / BAT](ETC/230107.md)
-- [221117 / Markdown](ETC/221025.md)
-- [221028 / VSCode](https://energneer.vercel.app/vscode)
-- [221025 / Markdown](ETC/221025.md)
-- [221007 / Atom Package Install](https://energneer.vercel.app/atom-issue)
+---
 
 ## 📔 Books
 
-[:link: Blog - Book Report Page](https://energneer.vercel.app/book-report)
+[:link: Blog - Book Review Page](https://energneer.tistory.com/category/Book%20Review)
 
-- 22.12- | 알고리즘 도감 (アルゴリズム圖鑑) / 이시다 모리테루, 미야자키 쇼이치
-- 22.12- | 그림으로 배우는 알고리즘 Basic (「アルゴリズム」のキホン) /스기우라 켄
+- 23.01- | 혼자 공부하는 운영체제 / 강민철
+- 23.01- | 혼자 공부하는 SQL / 우재남
+- 22.12-01 | 알고리즘 도감 (アルゴリズム圖鑑) / 이시다 모리테루, 미야자키 쇼이치
+- 22.12-01 | 그림으로 배우는 알고리즘 Basic (「アルゴリズム」のキホン) /스기우라 켄
 - 22.12- | 처음 만나는 알고리즘 (アルゴリズムを、はじめよう) / 이토 시즈카
 - 22.12- | 개발자의 글쓰기 / 김철수
-- 22.11- | Clean Code (클린 코드) / 로버트 C. 마틴
+- 22.11- | 클린 코드 (Clean Code) / 로버트 C. 마틴
 - 22.11- | 프로그래머의 길, 멘토에게 묻다 (Apprenticeship Patterns) / 데이브 후버, 애디웨일 오시나이
 - 22.10-11 | 혼자 공부하는 얄팍한 코딩지식 / 고현민
 - 22.09- | 커리어 스킬 (The Complete Software Developer's Career Guide) / 존 손메즈
