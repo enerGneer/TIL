@@ -66,7 +66,8 @@
 
 ## C
 
-- [230116 / Pointer to Array](C/220116.md)
+- [230117 / Struct, Pointer to Array](C/220117.md)
+- [230116 / Array of Pointer](C/220116.md)
 - [230112 / 2D Array & Pointer](C/220112.md)
 - [230108 / Array & Pointer(2)](C/220108.md)
 - [230104 / Array & Pointer(1)](C/220104.md)
