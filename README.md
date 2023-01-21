@@ -66,6 +66,7 @@
 
 ## C
 
+- [230121 / Function(4), Static Variable](C/220121.md)
 - [230120 / Function(3)](C/220120.md)
 - [230119 / Function(2)](C/220119.md)
 - [230118 / Function(1)](C/220118.md)
