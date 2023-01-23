@@ -66,6 +66,8 @@
 
 ## C
 
+- [230123 / Recursion Function](C/220123.md)
+- [230122 / Static Variable](C/220122.md)
 - [230121 / Function(4), Static Variable](C/220121.md)
 - [230120 / Function(3)](C/220120.md)
 - [230119 / Function(2)](C/220119.md)
