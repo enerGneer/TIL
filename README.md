@@ -66,7 +66,8 @@
 
 ## C
 
-- [230123 / Recursion Function](C/220123.md)
+- [230124 / Recursion Function(2)](C/220123.md)
+- [230123 / Recursion Function(1)](C/220123.md)
 - [230122 / Static Variable](C/220122.md)
 - [230121 / Function(4), Static Variable](C/220121.md)
 - [230120 / Function(3)](C/220120.md)
@@ -97,6 +98,9 @@
 
 # Computer Science
 
+- [230120 / Network, Internet, WWW](Basics/230120.md)
+- [230119 / 3D Graphic](Basics/230119.md)
+- [230118 / CMD, Screen, PC, GUI](Basics/230118.md)
 - [230116 / Memory, Storage, File System](Basics/230116.md)
 - [230114 / Programming Language, IC, OS](Basics/230114.md)
 - [230112 / CPU(3)](Basics/230112.md)
@@ -130,6 +134,11 @@
 
 ## Engineer Information Processing
 
+- [230123 / Network(3)](EIP/230123.md)
+- [230122 / Network(2)](EIP/230122.md)
+- [230121 / Network(1)](EIP/230121.md)
+- [230120 / Operating system(2)](EIP/230120.md)
+- [230119 / Operating system(1)](EIP/230119.md)
 - [230117 / Database(5) - SQL](EIP/230117.md)
 - [230115 / Database(4)](EIP/230115.md)
 - [230112 / Database(3)](EIP/230112.md)
@@ -162,9 +171,9 @@
 
 - [230107 / BAT](ETC/230107.md)
 - [221117 / Markdown](ETC/221025.md)
-- [221028 / VSCode](https://energneer.vercel.app/vscode)
+- [221028 / Visual Studio Code](https://energneer.tistory.com/15)
 - [221025 / Markdown](ETC/221025.md)
-- [221007 / Atom Package Install](https://energneer.vercel.app/atom-issue)
+- [221007 / Atom Package Install](https://energneer.tistory.com/32)
 
 ## Git
 
