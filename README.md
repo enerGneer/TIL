@@ -16,6 +16,8 @@
 
 ## JavaScript
 
+- [230126 / textContent & innterText](JavaScript/230126.md.md)
+- [230125 / forEach](https://github.com/enerGneer/javascript-basic-projects/tree/main/02-counter)
 - [221213 / Play with Youtube](JavaScript/221213.md)
 - [221117 / Local Storage](JavaScript/221117.md)
 - [221108 / Fix To do list](JavaScript/221108/)
