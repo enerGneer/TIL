@@ -8,15 +8,13 @@
 
 ##### :book: [Wiki page](https://energneer.gitbook.io/wiki) : 배운 내용 중 다시 찾아볼 내용들을 위키 형식으로 보기 쉽게 기록하는 페이지입니다.
 
-##### :memo: [Blog](https://energneer.vercel.app) : 오류 해결 분투기, 책 리뷰, 회고, 세미나 후기 등을 기록하는 블로그입니다.
-
 ---
 
 # Programming Language
 
 ## JavaScript
 
-- [230126 / textContent & innterText](JavaScript/230126.md.md)
+- [230126 / textContent & innterText, == & ===](JavaScript/230126.md)
 - [230125 / forEach](https://github.com/enerGneer/javascript-basic-projects/tree/main/02-counter)
 - [221213 / Play with Youtube](JavaScript/221213.md)
 - [221117 / Local Storage](JavaScript/221117.md)
@@ -64,7 +62,7 @@
 
 ## Java
 
-- [230126 / Object, Constructor, Exception](Java/230126.md)
+- [230126 / Object, Instance, Constructor, Exception](Java/230126.md)
 
 ## C
 
