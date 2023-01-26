@@ -64,7 +64,7 @@
 
 ## Java
 
--
+- [230126 / Object, Constructor, Exception](Java/230126.md)
 
 ## C
 
