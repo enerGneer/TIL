@@ -62,6 +62,7 @@
 
 ## Java
 
+- [230127 / Inheritance](Java/230127.md)
 - [230126 / Object, Instance, Constructor, Exception](Java/230126.md)
 
 ## C
@@ -123,6 +124,7 @@
 
 ## Algorithm & Data Structure
 
+- [230127/Data Structure](Algorithm/230127.md)
 - [221221/Data Structure](Algorithm/221221.md)
 - [221220/the Basis of Algorithm](Algorithm/221220.md)
 - [221219/the Basis of Algorithm](Algorithm/221219.md)
