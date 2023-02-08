@@ -62,6 +62,7 @@
 
 ## Java
 
+- [230208 / Inheritance](Java/230208.md)
 - [230205 / Method Overriding](Java/230205.md)
 - [230130 / OOP](Java/230130.md)
 - [230128 / Access Modifier, Static, Abstract Class, Interface](Java/230128.md)
