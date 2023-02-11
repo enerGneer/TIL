@@ -62,6 +62,7 @@
 
 ## Java
 
+- [230211 / Inheritance&Static Method](Java/230211.md)
 - [230208 / Inheritance](Java/230208.md)
 - [230205 / Method Overriding](Java/230205.md)
 - [230130 / OOP](Java/230130.md)
@@ -71,19 +72,20 @@
 
 ## C
 
-- [230205 / Operator](C/220123.md)
-- [230124 / Recursion Function(2)](C/220123.md)
-- [230123 / Recursion Function(1)](C/220123.md)
-- [230122 / Static Variable](C/220122.md)
-- [230121 / Function(4), Static Variable](C/220121.md)
-- [230120 / Function(3)](C/220120.md)
-- [230119 / Function(2)](C/220119.md)
-- [230118 / Function(1)](C/220118.md)
-- [230117 / Struct, Pointer to Array](C/220117.md)
-- [230116 / Array of Pointer](C/220116.md)
-- [230112 / 2D Array & Pointer](C/220112.md)
-- [230108 / Array & Pointer(2)](C/220108.md)
-- [230104 / Array & Pointer(1)](C/220104.md)
+- [230211 / Logical Operators, Pointer](C/230211.md)
+- [230205 / Operator](C/230123.md)
+- [230124 / Recursion Function(2)](C/230123.md)
+- [230123 / Recursion Function(1)](C/30123.md)
+- [230122 / Static Variable](C/230122.md)
+- [230121 / Function(4), Static Variable](C/230121.md)
+- [230120 / Function(3)](C/230120.md)
+- [230119 / Function(2)](C/230119.md)
+- [230118 / Function(1)](C/230118.md)
+- [230117 / Struct, Pointer to Array](C/230117.md)
+- [230116 / Array of Pointer](C/230116.md)
+- [230112 / 2D Array & Pointer](C/230112.md)
+- [230108 / Array & Pointer(2)](C/230108.md)
+- [230104 / Array & Pointer(1)](C/230104.md)
 - [221230 / Pointer](C/221230.md)
 - [221229 / Array(2)](C/221229.md)
 - [221228 / Array(1)](C/221228.md)
@@ -138,7 +140,7 @@
 
 ## Database
 
-- [220116/SQL Syntax](Database/230116.md)
+- [230116/SQL Syntax](Database/230116.md)
 
 ## Engineer Information Processing
 
