@@ -60,7 +60,7 @@
 
 ## Python
 
--
+- [230217 / Python Basics](ETC/230217.md)
 
 ## Java
 
