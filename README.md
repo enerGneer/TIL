@@ -2,11 +2,9 @@
 
 ### :books: Archives of my daily learnings
 
-오늘 배운 내용을 남김없이 기록하는 페이지입니다.
-
----
-
-##### :book: [Wiki page](https://energneer.gitbook.io/wiki) : 배운 내용 중 다시 찾아볼 내용들을 위키 형식으로 보기 쉽게 기록하는 페이지입니다.
+- 오늘 배운 내용을 러프하게 기록하는 페이지입니다.
+- 일별로 기록합니다.
+- 이 내용들을 모아서 [:link:Blog](https://energneer.tistory.com/)에 정리하고 있습니다.
 
 ---
 
