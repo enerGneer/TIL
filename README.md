@@ -58,6 +58,7 @@
 
 ## Python
 
+- [230220 / list, set, lambda](ETC/230220.md)
 - [230217 / Python Basics](ETC/230217.md)
 
 ## Java
