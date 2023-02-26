@@ -12,6 +12,7 @@
 
 ## JavaScript
 
+- [230226 / array's method : map, reduce, filter, push](https://github.com/enerGneer/javascript-basic-projects/tree/main/08-menu)
 - [230126 / textContent & innterText, == & ===](JavaScript/230126.md)
 - [230125 / forEach](https://github.com/enerGneer/javascript-basic-projects/tree/main/02-counter)
 - [221213 / Play with Youtube](JavaScript/221213.md)
