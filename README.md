@@ -49,6 +49,7 @@
 
 ## HTML & CSS
 
+- [230305 / text-overflow:ellipsis](Html&Css/230305.md)
 - [230304 / form, inherit](Html&Css/230304.md)
 - [230226 / WAI-ARIA, var, selector, SVG](Html&Css/230226.md)
 - [230225 / flex, grid, position, box-sizing](Html&Css/230225.md)
