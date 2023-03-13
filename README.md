@@ -12,6 +12,8 @@
 
 ## JavaScript
 
+- [230308 / undefined](JavaScript/230308.md)
+- [230306 / string slice](JavaScript/230306.md)
 - [230304 / escape, DOM, defer](JavaScript/230304.md)
 - [230228 / video play-pause method, preloader setting](https://github.com/enerGneer/javascript-basic-projects/tree/main/09-video)
 - [230226 / array's method : map, reduce, filter, push](https://github.com/enerGneer/javascript-basic-projects/tree/main/08-menu)
@@ -49,6 +51,9 @@
 
 ## HTML & CSS
 
+- [230313 / Marker](Html&Css/230313.md)
+- [230308 / inner border](Html&Css/230308.md)
+- [230307 / Gradient, last-child, combinator, hover, not](Html&Css/230307.md)
 - [230305 / text-overflow:ellipsis](Html&Css/230305.md)
 - [230304 / form, inherit](Html&Css/230304.md)
 - [230226 / WAI-ARIA, var, selector, SVG](Html&Css/230226.md)
