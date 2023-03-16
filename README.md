@@ -12,6 +12,7 @@
 
 ## JavaScript
 
+- [230316 / Control, string](JavaScript/230316.md)
 - [230308 / undefined](JavaScript/230308.md)
 - [230306 / string slice](JavaScript/230306.md)
 - [230304 / escape, DOM, defer](JavaScript/230304.md)
