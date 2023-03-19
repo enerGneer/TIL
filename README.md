@@ -12,6 +12,7 @@
 
 ## JavaScript
 
+- [230319 / get id dynamically, object array, return](JavaScript/230319.md)
 - [230318 / Extract the entered value, FormData, Dataset](JavaScript/230318.md)
 - [230316 / Control, string](JavaScript/230316.md)
 - [230308 / undefined](JavaScript/230308.md)
