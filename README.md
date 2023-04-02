@@ -133,6 +133,7 @@
 
 # Computer Science
 
+- [230402 / IP protocol](Basics/230402.md)
 - [230120 / Network, Internet, WWW](Basics/230120.md)
 - [230119 / 3D Graphic](Basics/230119.md)
 - [230118 / CMD, Screen, PC, GUI](Basics/230118.md)
