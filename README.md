@@ -159,6 +159,7 @@
 
 ## Algorithm & Data Structure
 
+- [230404/Algorithm](Algorithm/230404.md)
 - [230129/Graph](Algorithm/230129.md)
 - [230127/Data Structure](Algorithm/230127.md)
 - [221221/Data Structure](Algorithm/221221.md)
@@ -230,6 +231,8 @@
 
 [:link: Blog - Book Review Page](https://energneer.tistory.com/category/Book%20Review)
 
+- 23.03- | 한 권으로 읽는 컴퓨터 구조와 프로그래밍 (The Secret Life of Programs) / 조너선 스타인하트
+- 23.03-04 | (일상 속 스마트한 선택을 위한) 알고리즘 라이프 (Bad Choices) / 알리 알모사위
 - 23.01- | 혼자 공부하는 운영체제 / 강민철
 - 23.01- | 혼자 공부하는 SQL / 우재남
 - 22.12-01 | 알고리즘 도감 (アルゴリズム圖鑑) / 이시다 모리테루, 미야자키 쇼이치
