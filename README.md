@@ -133,6 +133,7 @@
 
 # Computer Science
 
+- [230411 / Subnet](Basics/230411.md)
 - [230407 / Subnet](Basics/230407.md)
 - [230402 / Network protocol, HTTP](Basics/230402.md)
 - [230120 / Network, Internet, WWW](Basics/230120.md)
