@@ -1,6 +1,14 @@
 # TIL : Today I Learned
 
-### :books: Archives of my daily learnings
+## :truck: Move to Notion (2023.05 ~ )
+
+빠르고 편한 기록을 위해 [:link:**Notion**](https://energneer.notion.site/TIL-b71258ffaed2459b90760eda1cd35be8)으로 옮겼습니다.
+
+이하는 옮기기 전까지의 기록입니다.
+
+---
+
+## :books: Archives of my daily learnings ( ~ 2023.04)
 
 - 오늘 배운 내용을 러프하게 기록하는 페이지입니다.
 - 일별로 기록합니다.
